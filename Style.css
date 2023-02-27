@@ -1,0 +1,42 @@
+body {
+    background-color:rosybrown;
+    border: radius 100px;
+  }
+  p {
+    color: black;
+    font-family:cursive;
+    text-align:start;
+  }
+  h1 {
+    font-weight: bold;
+    text-align:center;
+    font-family:cursive;
+  }
+  img{
+    width:450px;
+    height:450px;
+    float:right;
+  }
+  
+  ul{
+    font-family:cursive;
+    font-size:18px;
+    text-decoration:underline;
+  }
+  
+  li{
+    font-family:cursive;
+  }
+  
+  h4{
+    font-family:cursive;
+    font-size:18px
+  }
+  
+  a{
+    font-size:22px;
+    color:darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    display:block;
+  }
+  
