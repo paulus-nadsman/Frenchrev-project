@@ -1,0 +1,62 @@
+<!Doctype HTmL>
+<htmL>
+  <head>
+    <link rel="stylesheet" href="Style.css">
+  </head>
+  <body>
+    <!--Page 2 title-->
+    <h1>The Flames of Revolution Spread</h1>    
+    <!--Paragraph 1 of Page 2-->
+    <p>After the raid on Bastille the nobles came together on August 4th in a meeting with our National Assembly and voted to end their privilages. Later on in the month our National Assembly reconvened and drafted the first of many constitution's.This lead to rights for both men and women.</p>
+    <!--Violence Shapes the Revolution-->
+    <h4>Violence Shapes the Revolution</h4>
+    <p>For the first time in French history we finally have equal rights amung both men and women. But more importanly our people have a say now in the politics of our government. However freedom isn't free. As soon as the revolution began Monarchies all over Europe saw the revolution of the french people as a threat to absolute monarchy. As our revolution slowly turned into utter chaos even the enlightened leaders began to see us as a threat.</p>
+    <!--Image of Violence during revolution-->
+    <img src="Radical-change.jpeg" alt="Violence of Revolution">
+    <!--Explaining enlightenment ideals-->
+    <h4>The Role of Enlightenment</h4>
+    <p>Just as violence played its part in our revolution so did the Enlightenment ideals.</p>
+    <!--Enlighenment ideals list-->
+    <ul>What are the Enlighnment ideals?</ul>
+    <li>Desim: Culture, tradition and racism are barriers to gaining knowledge of our universal laws of nature</li>
+    <li>Liberalism: The belief that every human is born with rights and freedom</li>
+    <li>Republicanism: The belief that a government ruled by hereditary right</li>
+    <li>Convervatism: A commitment to traditional values with opposition to change or innovation</li>
+    <li>Toleration: Toleration of particular differences or opinions</li>
+    <li>Scientific Progress: or coming to understand the natural laws that govern us</li>
+    <!--Explaining Enlightenment Ideals again-->
+    <p>These ideals are one of the many things that fueled the fire that began the revolution in the first place. People had grown tired of the absolute rule with little to no freedom for themselves</p>
+    <!--Radical changes-->
+    <h4>Revolution enters Radical phase</h4>
+    <p>Because the monarchy had been disbanded rival factions began to fight for power. In the year 1791 a new legislative authority was elected but only lasted one year because of the newfound intense rivaly between factions. Later in 1792 tensions between France and all of Europe grew and threats turned into all out warfare.</p>
+    <p>By 1793 our country began to see radical change in our revolution</p>
+    <!--List of Radical change-->
+    <ul>Radical Changes</ul>
+    <li>In 1792 parisians stormed the royal palce of Tuileries and killed the kings guards, the next month they attacked and killed 1000 prisoners</li>
+    <li>The National Convention was created as a new legislative body in September of 1792</li>
+    <li>The newly created convention voted to abolish the monarchy completely and establish a republic</li>
+    <li>The leaders of the convention, the Jacobins, set out to completly erase all traces of the old rule (the monarchy) </li>
+    <!--Radical changes continued via paragraph-->
+    <p>During the early stages of the republic King Louis XV1 was put on trail as a traitor to our nation. Soon after his trial he was convicted and sentenced to public execution. In January of 1793 King Louis XV1 was publically beheaded in our beloved city of paris. </p>
+    <!--Reign of Terror sub heading-->
+    <h4>Robspierre's Reign of Terror</h4>
+    <!--Image of Robspierre-->
+    <img src="Maximillien-Robspierre.jpg" alt="Maximillien Robspierre">
+    <!--Reign of terror information-->
+    <p>As we know well, in early 1793 France was threatened by the rest of Europe which led our Nation Convention to create the Committee of Public Safety. This committee was made up of twelve people that almost had complete power within the government. This committee was responsible for protecting our homeland of France from invaders forien and at home.</p>
+    <p>The leader of this newly formed committee was the radical Maximilien Robespierre a srewd lawyer and polician. He was selflessly dedicated to preserving what the revolution stood for. Dedicated to the point of executing any and all whom were deemed traitors. During his Reign of Terror Robspierre became known as Robspierre the Incorruptable. </p>
+    <p>Robspierre was ruthless toward our people, he arrested around 300,000 people and publically executed around 20,000 people by use of the guillotine. Thanks to god above his Reign of Terror only lasted a year. The National Convention feared for their lives and quickly turned against Robspierre and the Committee of Public Safety. On July 27th 1794 Robspierre the Incorruptable was arrested and executed.</p>
+    <!--Lets look from Robspierre's eyes-->
+    <h4>From the eyes of Robspierre</h4>
+    <p>Thanks to connections within our great Assembly I was gifted the chance to meet Robspierre himself and find out his true view regarding his ruthless actions.</p>
+    <p>"This revolution must stand. We shall never bend the knee to any man. All who oppose our cause are against it. The words of traitors will be met by the sword"</p>
+    <p>"To punish the oppressors of humanity is clemency; to forgive them is cruelty." -Maximillian Robspierre (www.goodreads.com)</p>
+    <!--Aftermath of Robspierre-->
+    <h4>Aftermath of Robspierre</h4>
+    <p>After Robspierre's execution a new constitution was drafted in 1795 our third since 1789. This constitution set up a new five-man Directory and a two-house legislature that was elected into office. Shortly after our new constitution's creation a new threat arose. Devout catholic emigrants moved back to our nation and brought about radical change. In the election of 1797 supporters of a constituional monarchy won the majority seat on the legislature. The Directory consolidated to many reforms made by the National Convention.</p>
+    <!--Link to previous page-->
+    <a href="French revolution page 1">Back to page 1</a>
+    <!--Link to next page-->
+    <a href="French revolution page 3">Continue to page 3</a>
+  </body>    
+</htmL>
