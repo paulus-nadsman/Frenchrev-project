@@ -1,0 +1,45 @@
+<!Doctype htmL>
+<htmL>
+  <!--Css styling-->   
+  <head>
+    <link rel="stylesheet" href="Style.css">
+  </head>    
+  <body>
+    <!--Page one Title-->    
+    <h1>Revolution from the Ashes of Tyranny</h1>
+    <!--Page one paragraph 1-->
+    <p>Under the rule of King Louis XV1 our country has been at nonstop war and financially crumbling. All are King can think of doing is rasing our taxes and himself paying nothing; that is to say our nobles are to blame for such tyranny. They forced our Kings hand. Lets look back on how France rose from the ashes of Tyranny</p>
+    <!--Subheading (Estates)-->
+    <h4>The Three Estates</h4>
+    <!--Paragraph and list on the three estates-->
+    <p>The three estates make up France's socail class. The very social class that is the french people, our people.</p>
+        <!--Image of Raid on Bastille-->
+        <img src="Bastille-raid.jpg" alt="French people raid Bastille">
+    <!--First estate list-->
+    <ul>The First Estate</ul>
+    <li>This estate is made up of the clergy, and church</li>
+    <li>The first estate owned ten precent of the land in France</li>
+    <li>They payed no direct taxes to the state</li>
+    <li>They directed all social services such as running schools, hospitals and orphanges</li>
+    <!--Second estate list-->
+    <ul>The Second Estate</ul>
+    <li>This estate is made up of the nobility</li>
+    <li>Noble knights defended the land until King Louis X1V crushed their millitary right</li>
+    <li>Under King Louis X1V nobility no longer protected the land, instead they were given top jobs in government, army, and church</li>
+    <li>Over the years the nobles grew to hate absolutism and resented royal bureaucracy</li>
+    <li>Nobles often feared losing traditional privilages especially their freedom from paying taxes</li>
+    <!--Third estate list-->
+    <ul>The Third Estate</ul>
+    <li>This class was made up of the common folk and peasants</li>
+    <li>This estate was a very diverse class of people made up of everything from bankers to rural peasants</li>
+    <li>The third estate had to pay 90 precent of all taxes to help offest France's debt</li>
+    <li>During the year 1775 the third estate rioted against the insanly high tax of bread this is now known as the "Flour War"</li>
+    <!--Beginings of revolution paragraphs-->
+    <h4>Beginings of revolution</h4>
+    <p>Because our country is on an epic economic decline our king, King Louis XV1 has appointed a finnacial expert Jacques Necker. Jacques despratly urged our king to reduce court spending, reform our government and abolish rediculous tariffs on internal trade. Despite Jacques wisdom the moment he even thought to mention taxing the First and Second estates they immediately force our king, Louis XV1 to dismiss Jacques from office.</p>
+    <p>As the year 1788 came to close my people, King Louis finally used the head upon his shoulders and called for the Estates-General to meet at Versaillas the following year. In May of 1789 the Estates-General met and listed off their grievances. Finally for the first time in almost 200 years our voice was heard my people. In June 1789 our people had had enough of the Tyranny that controlled our government. We declared oursleves to be the National Assembly upon which represented the people of France and seperated ourselves from the monarchy</p>
+    <p>On July 14th 1789 Paris stole the spotlight from the National Assembly. 800 parisians gathered outside the Bastille demanding weapons and gunpowder. The noble commander did the right thing and stood up for his honor by denying these people, however this denial escalated things qucikly. The people killed the commander and the guards. The capturing of the Bastille signaled the begining of our revolution and is truly how our great nation rose from the ashes of tyranny.</p>
+<!--link to next page-->
+<a href="French revolution page 2">Continue to Page 2</a>
+</body>
+</htmL>
